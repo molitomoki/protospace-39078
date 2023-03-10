@@ -63,4 +63,4 @@ group :production do
   gem 'pg'
 end
 
-gem "net-http"
+gem 'mail', '2.7.1'
